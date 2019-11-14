@@ -1,2 +1,7 @@
 # hello-world
-hello world print in c
+#include<stdio.h>
+
+void main()
+{
+ prntf("hello world");
+ }
